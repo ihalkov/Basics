@@ -1,0 +1,5 @@
+E:\Java\SoftUni\BasicsReview\Loops\BitRoller\bin\Debug\BitRoller.exe
+E:\Java\SoftUni\BasicsReview\Loops\BitRoller\bin\Debug\BitRoller.pdb
+E:\Java\SoftUni\BasicsReview\Loops\BitRoller\obj\Debug\BitRoller.exe
+E:\Java\SoftUni\BasicsReview\Loops\BitRoller\obj\Debug\BitRoller.pdb
+E:\Java\SoftUni\BasicsReview\Loops\BitRoller\obj\Debug\BitRoller.csprojResolveAssemblyReference.cache

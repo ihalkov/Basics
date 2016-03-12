@@ -1,0 +1,5 @@
+E:\Java\SoftUni\BasicsReview\Loops\CalculateNfact\bin\Debug\CalculateNfact.exe
+E:\Java\SoftUni\BasicsReview\Loops\CalculateNfact\bin\Debug\CalculateNfact.pdb
+E:\Java\SoftUni\BasicsReview\Loops\CalculateNfact\obj\Debug\CalculateNfact.csprojResolveAssemblyReference.cache
+E:\Java\SoftUni\BasicsReview\Loops\CalculateNfact\obj\Debug\CalculateNfact.exe
+E:\Java\SoftUni\BasicsReview\Loops\CalculateNfact\obj\Debug\CalculateNfact.pdb

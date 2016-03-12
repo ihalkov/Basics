@@ -1,0 +1,4 @@
+E:\Java\SoftUni\BasicsReview\Loops\MinMaxSumAndAverageOfNumbers\bin\Debug\MinMaxSumAndAverageOfNumbers.exe
+E:\Java\SoftUni\BasicsReview\Loops\MinMaxSumAndAverageOfNumbers\bin\Debug\MinMaxSumAndAverageOfNumbers.pdb
+E:\Java\SoftUni\BasicsReview\Loops\MinMaxSumAndAverageOfNumbers\obj\Debug\MinMaxSumAndAverageOfNumbers.exe
+E:\Java\SoftUni\BasicsReview\Loops\MinMaxSumAndAverageOfNumbers\obj\Debug\MinMaxSumAndAverageOfNumbers.pdb

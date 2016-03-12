@@ -1,0 +1,5 @@
+E:\Java\SoftUni\BasicsReview\Loops\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.exe
+E:\Java\SoftUni\BasicsReview\Loops\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.pdb
+E:\Java\SoftUni\BasicsReview\Loops\OddAndEvenProduct\obj\Debug\OddAndEvenProduct.csprojResolveAssemblyReference.cache
+E:\Java\SoftUni\BasicsReview\Loops\OddAndEvenProduct\obj\Debug\OddAndEvenProduct.exe
+E:\Java\SoftUni\BasicsReview\Loops\OddAndEvenProduct\obj\Debug\OddAndEvenProduct.pdb

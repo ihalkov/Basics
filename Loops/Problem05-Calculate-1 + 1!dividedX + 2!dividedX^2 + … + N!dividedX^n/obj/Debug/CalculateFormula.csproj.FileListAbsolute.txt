@@ -1,0 +1,5 @@
+E:\Java\SoftUni\BasicsReview\Loops\CalculateFormula\bin\Debug\CalculateFormula.exe
+E:\Java\SoftUni\BasicsReview\Loops\CalculateFormula\bin\Debug\CalculateFormula.pdb
+E:\Java\SoftUni\BasicsReview\Loops\CalculateFormula\obj\Debug\CalculateFormula.csprojResolveAssemblyReference.cache
+E:\Java\SoftUni\BasicsReview\Loops\CalculateFormula\obj\Debug\CalculateFormula.exe
+E:\Java\SoftUni\BasicsReview\Loops\CalculateFormula\obj\Debug\CalculateFormula.pdb

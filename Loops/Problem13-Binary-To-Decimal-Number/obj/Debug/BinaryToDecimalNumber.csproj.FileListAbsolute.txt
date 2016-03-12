@@ -1,0 +1,5 @@
+E:\Java\SoftUni\BasicsReview\Loops\BinaryToDecimalNumber\bin\Debug\BinaryToDecimalNumber.exe
+E:\Java\SoftUni\BasicsReview\Loops\BinaryToDecimalNumber\bin\Debug\BinaryToDecimalNumber.pdb
+E:\Java\SoftUni\BasicsReview\Loops\BinaryToDecimalNumber\obj\Debug\BinaryToDecimalNumber.csprojResolveAssemblyReference.cache
+E:\Java\SoftUni\BasicsReview\Loops\BinaryToDecimalNumber\obj\Debug\BinaryToDecimalNumber.exe
+E:\Java\SoftUni\BasicsReview\Loops\BinaryToDecimalNumber\obj\Debug\BinaryToDecimalNumber.pdb

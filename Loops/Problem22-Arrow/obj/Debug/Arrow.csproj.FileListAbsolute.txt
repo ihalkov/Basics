@@ -1,0 +1,5 @@
+E:\Java\SoftUni\BasicsReview\Loops\Arrow\bin\Debug\Arrow.exe
+E:\Java\SoftUni\BasicsReview\Loops\Arrow\bin\Debug\Arrow.pdb
+E:\Java\SoftUni\BasicsReview\Loops\Arrow\obj\Debug\Arrow.csprojResolveAssemblyReference.cache
+E:\Java\SoftUni\BasicsReview\Loops\Arrow\obj\Debug\Arrow.exe
+E:\Java\SoftUni\BasicsReview\Loops\Arrow\obj\Debug\Arrow.pdb

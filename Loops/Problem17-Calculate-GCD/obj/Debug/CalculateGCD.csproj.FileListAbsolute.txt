@@ -1,0 +1,5 @@
+E:\Java\SoftUni\BasicsReview\Loops\CalculateGCD\bin\Debug\CalculateGCD.exe
+E:\Java\SoftUni\BasicsReview\Loops\CalculateGCD\bin\Debug\CalculateGCD.pdb
+E:\Java\SoftUni\BasicsReview\Loops\CalculateGCD\obj\Debug\CalculateGCD.csprojResolveAssemblyReference.cache
+E:\Java\SoftUni\BasicsReview\Loops\CalculateGCD\obj\Debug\CalculateGCD.exe
+E:\Java\SoftUni\BasicsReview\Loops\CalculateGCD\obj\Debug\CalculateGCD.pdb

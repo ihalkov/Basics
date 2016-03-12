@@ -1,0 +1,5 @@
+E:\Java\SoftUni\BasicsReview\Loops\CalculateNK\bin\Debug\CalculateNK.exe
+E:\Java\SoftUni\BasicsReview\Loops\CalculateNK\bin\Debug\CalculateNK.pdb
+E:\Java\SoftUni\BasicsReview\Loops\CalculateNK\obj\Debug\CalculateNK.csprojResolveAssemblyReference.cache
+E:\Java\SoftUni\BasicsReview\Loops\CalculateNK\obj\Debug\CalculateNK.exe
+E:\Java\SoftUni\BasicsReview\Loops\CalculateNK\obj\Debug\CalculateNK.pdb

@@ -1,0 +1,5 @@
+E:\Java\SoftUni\BasicsReview\Loops\OddEvenElements\bin\Debug\OddEvenElements.exe
+E:\Java\SoftUni\BasicsReview\Loops\OddEvenElements\bin\Debug\OddEvenElements.pdb
+E:\Java\SoftUni\BasicsReview\Loops\OddEvenElements\obj\Debug\OddEvenElements.csprojResolveAssemblyReference.cache
+E:\Java\SoftUni\BasicsReview\Loops\OddEvenElements\obj\Debug\OddEvenElements.exe
+E:\Java\SoftUni\BasicsReview\Loops\OddEvenElements\obj\Debug\OddEvenElements.pdb

@@ -1,0 +1,4 @@
+E:\Java\SoftUni\BasicsReview\Loops\DecimalToBinaryNumber\bin\Debug\DecimalToBinaryNumber.exe
+E:\Java\SoftUni\BasicsReview\Loops\DecimalToBinaryNumber\bin\Debug\DecimalToBinaryNumber.pdb
+E:\Java\SoftUni\BasicsReview\Loops\DecimalToBinaryNumber\obj\Debug\DecimalToBinaryNumber.exe
+E:\Java\SoftUni\BasicsReview\Loops\DecimalToBinaryNumber\obj\Debug\DecimalToBinaryNumber.pdb

@@ -1,0 +1,4 @@
+E:\Java\SoftUni\BasicsReview\Loops\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.exe
+E:\Java\SoftUni\BasicsReview\Loops\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.pdb
+E:\Java\SoftUni\BasicsReview\Loops\MatrixOfNumbers\obj\Debug\MatrixOfNumbers.exe
+E:\Java\SoftUni\BasicsReview\Loops\MatrixOfNumbers\obj\Debug\MatrixOfNumbers.pdb

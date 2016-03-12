@@ -1,0 +1,5 @@
+E:\Java\SoftUni\BasicsReview\Loops\CatalanNumbers\bin\Debug\CatalanNumbers.exe
+E:\Java\SoftUni\BasicsReview\Loops\CatalanNumbers\bin\Debug\CatalanNumbers.pdb
+E:\Java\SoftUni\BasicsReview\Loops\CatalanNumbers\obj\Debug\CatalanNumbers.csprojResolveAssemblyReference.cache
+E:\Java\SoftUni\BasicsReview\Loops\CatalanNumbers\obj\Debug\CatalanNumbers.exe
+E:\Java\SoftUni\BasicsReview\Loops\CatalanNumbers\obj\Debug\CatalanNumbers.pdb

@@ -1,0 +1,5 @@
+E:\Java\SoftUni\BasicsReview\Loops\SpiralMatrix\bin\Debug\SpiralMatrix.exe
+E:\Java\SoftUni\BasicsReview\Loops\SpiralMatrix\bin\Debug\SpiralMatrix.pdb
+E:\Java\SoftUni\BasicsReview\Loops\SpiralMatrix\obj\Debug\SpiralMatrix.csprojResolveAssemblyReference.cache
+E:\Java\SoftUni\BasicsReview\Loops\SpiralMatrix\obj\Debug\SpiralMatrix.exe
+E:\Java\SoftUni\BasicsReview\Loops\SpiralMatrix\obj\Debug\SpiralMatrix.pdb

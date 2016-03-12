@@ -1,0 +1,5 @@
+E:\Java\SoftUni\BasicsReview\Loops\HexadecimalToDecimal\bin\Debug\HexadecimalToDecimal.exe
+E:\Java\SoftUni\BasicsReview\Loops\HexadecimalToDecimal\bin\Debug\HexadecimalToDecimal.pdb
+E:\Java\SoftUni\BasicsReview\Loops\HexadecimalToDecimal\obj\Debug\HexadecimalToDecimal.csprojResolveAssemblyReference.cache
+E:\Java\SoftUni\BasicsReview\Loops\HexadecimalToDecimal\obj\Debug\HexadecimalToDecimal.exe
+E:\Java\SoftUni\BasicsReview\Loops\HexadecimalToDecimal\obj\Debug\HexadecimalToDecimal.pdb

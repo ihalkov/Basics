@@ -1,0 +1,5 @@
+E:\Java\SoftUni\BasicsReview\Loops\PrintADeckOfCards\bin\Debug\PrintADeckOfCards.exe
+E:\Java\SoftUni\BasicsReview\Loops\PrintADeckOfCards\bin\Debug\PrintADeckOfCards.pdb
+E:\Java\SoftUni\BasicsReview\Loops\PrintADeckOfCards\obj\Debug\PrintADeckOfCards.exe
+E:\Java\SoftUni\BasicsReview\Loops\PrintADeckOfCards\obj\Debug\PrintADeckOfCards.pdb
+E:\Java\SoftUni\BasicsReview\Loops\PrintADeckOfCards\obj\Debug\PrintADeckOfCards.csprojResolveAssemblyReference.cache
