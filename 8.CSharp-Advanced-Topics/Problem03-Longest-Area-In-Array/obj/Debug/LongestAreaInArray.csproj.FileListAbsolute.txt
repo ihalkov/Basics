@@ -1,0 +1,4 @@
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\LongestAreaInArray\bin\Debug\LongestAreaInArray.exe
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\LongestAreaInArray\bin\Debug\LongestAreaInArray.pdb
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\LongestAreaInArray\obj\Debug\LongestAreaInArray.exe
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\LongestAreaInArray\obj\Debug\LongestAreaInArray.pdb

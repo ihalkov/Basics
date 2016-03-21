@@ -1,0 +1,5 @@
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\ExtractURLsFromText\bin\Debug\ExtractURLsFromText.exe
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\ExtractURLsFromText\bin\Debug\ExtractURLsFromText.pdb
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\ExtractURLsFromText\obj\Debug\ExtractURLsFromText.csprojResolveAssemblyReference.cache
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\ExtractURLsFromText\obj\Debug\ExtractURLsFromText.exe
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\ExtractURLsFromText\obj\Debug\ExtractURLsFromText.pdb

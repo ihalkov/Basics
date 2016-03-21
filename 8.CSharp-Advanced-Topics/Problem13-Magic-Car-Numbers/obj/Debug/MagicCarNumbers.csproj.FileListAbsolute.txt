@@ -1,0 +1,5 @@
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\MagicCarNumbers\bin\Debug\MagicCarNumbers.exe
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\MagicCarNumbers\bin\Debug\MagicCarNumbers.pdb
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\MagicCarNumbers\obj\Debug\MagicCarNumbers.csprojResolveAssemblyReference.cache
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\MagicCarNumbers\obj\Debug\MagicCarNumbers.exe
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\MagicCarNumbers\obj\Debug\MagicCarNumbers.pdb

@@ -1,0 +1,5 @@
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\BitFlipper\obj\Debug\BitFlipper.csprojResolveAssemblyReference.cache
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\BitFlipper\bin\Debug\BitFlipper.exe
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\BitFlipper\bin\Debug\BitFlipper.pdb
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\BitFlipper\obj\Debug\BitFlipper.exe
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\BitFlipper\obj\Debug\BitFlipper.pdb

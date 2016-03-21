@@ -1,0 +1,5 @@
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\InsideTheBuilding\bin\Debug\InsideTheBuilding.exe
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\InsideTheBuilding\bin\Debug\InsideTheBuilding.pdb
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\InsideTheBuilding\obj\Debug\InsideTheBuilding.csprojResolveAssemblyReference.cache
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\InsideTheBuilding\obj\Debug\InsideTheBuilding.exe
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\InsideTheBuilding\obj\Debug\InsideTheBuilding.pdb

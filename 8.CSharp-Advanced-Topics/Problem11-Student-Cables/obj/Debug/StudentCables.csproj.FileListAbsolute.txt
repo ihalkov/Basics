@@ -1,0 +1,5 @@
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\StudentCables\bin\Debug\StudentCables.exe
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\StudentCables\bin\Debug\StudentCables.pdb
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\StudentCables\obj\Debug\StudentCables.csprojResolveAssemblyReference.cache
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\StudentCables\obj\Debug\StudentCables.exe
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\StudentCables\obj\Debug\StudentCables.pdb

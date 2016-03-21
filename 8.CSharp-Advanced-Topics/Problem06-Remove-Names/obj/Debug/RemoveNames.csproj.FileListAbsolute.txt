@@ -1,0 +1,5 @@
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\RemoveNames\bin\Debug\RemoveNames.exe
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\RemoveNames\bin\Debug\RemoveNames.pdb
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\RemoveNames\obj\Debug\RemoveNames.csprojResolveAssemblyReference.cache
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\RemoveNames\obj\Debug\RemoveNames.exe
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\RemoveNames\obj\Debug\RemoveNames.pdb

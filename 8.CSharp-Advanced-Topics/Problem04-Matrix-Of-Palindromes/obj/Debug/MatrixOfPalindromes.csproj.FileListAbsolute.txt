@@ -1,0 +1,5 @@
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\MatrixOfPalindromes\bin\Debug\MatrixOfPalindromes.exe
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\MatrixOfPalindromes\bin\Debug\MatrixOfPalindromes.pdb
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\MatrixOfPalindromes\obj\Debug\MatrixOfPalindromes.csprojResolveAssemblyReference.cache
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\MatrixOfPalindromes\obj\Debug\MatrixOfPalindromes.exe
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\MatrixOfPalindromes\obj\Debug\MatrixOfPalindromes.pdb

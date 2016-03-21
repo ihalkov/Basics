@@ -1,0 +1,5 @@
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\ProgrammerDNA\bin\Debug\ProgrammerDNA.exe
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\ProgrammerDNA\bin\Debug\ProgrammerDNA.pdb
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\ProgrammerDNA\obj\Debug\ProgrammerDNA.csprojResolveAssemblyReference.cache
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\ProgrammerDNA\obj\Debug\ProgrammerDNA.exe
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\ProgrammerDNA\obj\Debug\ProgrammerDNA.pdb

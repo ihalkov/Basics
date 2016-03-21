@@ -1,0 +1,4 @@
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\SortingNumbers\bin\Debug\SortingNumbers.exe
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\SortingNumbers\bin\Debug\SortingNumbers.pdb
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\SortingNumbers\obj\Debug\SortingNumbers.exe
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\SortingNumbers\obj\Debug\SortingNumbers.pdb

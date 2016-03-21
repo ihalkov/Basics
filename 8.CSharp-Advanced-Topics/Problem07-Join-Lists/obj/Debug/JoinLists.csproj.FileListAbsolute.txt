@@ -1,0 +1,4 @@
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\JoinLists\bin\Debug\JoinLists.exe
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\JoinLists\bin\Debug\JoinLists.pdb
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\JoinLists\obj\Debug\JoinLists.exe
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\JoinLists\obj\Debug\JoinLists.pdb

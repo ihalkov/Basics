@@ -1,0 +1,5 @@
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\LongestWordInAText\bin\Debug\LongestWordInAText.exe
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\LongestWordInAText\bin\Debug\LongestWordInAText.pdb
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\LongestWordInAText\obj\Debug\LongestWordInAText.csprojResolveAssemblyReference.cache
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\LongestWordInAText\obj\Debug\LongestWordInAText.exe
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\LongestWordInAText\obj\Debug\LongestWordInAText.pdb
