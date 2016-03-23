@@ -1,0 +1,5 @@
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\BubbleSort\bin\Debug\BubbleSort.exe
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\BubbleSort\bin\Debug\BubbleSort.pdb
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\BubbleSort\obj\Debug\BubbleSort.csprojResolveAssemblyReference.cache
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\BubbleSort\obj\Debug\BubbleSort.exe
+E:\Java\SoftUni\BasicsReview\8.CSharp-Advanced-Topics\BubbleSort\obj\Debug\BubbleSort.pdb
